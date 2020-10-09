@@ -1,0 +1,1 @@
+This is an app with server-side and client-side
